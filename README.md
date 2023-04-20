@@ -1,21 +1,21 @@
 # Commercial_website01 (Shoppr)
 
-This is a demo commercial website for practicing/showing my web development skills.
+  This is a demo commercial website for practicing/showing my web development skills.
 
 ## Technologies Used: 
 
 <ul>
   <li>Html</li>
-  </li>Css</li>
-  </li>Python</li>
-  </li>Django</li>
+  <li>Css</li>
+  <li>Python</li>
+  <li>Django</li>
 </ul>
 
 ## Installation
 
-1. Clone repository to your local machine : ```git clone https://github.com/SmokeyTanvir/Commercial_website01```
+1. Clone repository to your local machine :  ```git clone https://github.com/SmokeyTanvir/Commercial_website01```
 
-2. Install the required dependencies : ```pip install -r requirements.txt```
+2. Install the required dependencies :  ```pip install -r requirements.txt```
 
 ## Usage 
 
@@ -23,7 +23,7 @@ This is a demo commercial website for practicing/showing my web development skil
 
 2. Access the website at `http://localhost:8000/shoppr/`
 
-##Features  
+## Features  
 
 <ul>
   <li>Responsive Design</li>
@@ -33,7 +33,7 @@ This is a demo commercial website for practicing/showing my web development skil
 
 ## Contributing
 
-I am very much looking forward to contributions. Feel free to contribute at any time. :happy
+  I am very much looking forward to contributions. Feel free to contribute at any time. 😃
 
 ## Credits
 <ul>
@@ -42,4 +42,4 @@ I am very much looking forward to contributions. Feel free to contribute at any 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+  This project is licensed under the MIT License - see the LICENSE file for details.
