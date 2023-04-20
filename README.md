@@ -15,7 +15,7 @@ This is a demo commercial website for practicing/showing my web development skil
 
 1. Clone repository to your local machine : ```git clone https://github.com/SmokeyTanvir/Commercial_website01```
 
-2. Install the required dependencies : ```pip install requirements.txt```
+2. Install the required dependencies : ```pip install -r requirements.txt```
 
 ## Usage 
 
