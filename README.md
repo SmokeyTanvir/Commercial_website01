@@ -37,7 +37,7 @@
 
 ## Credits
 <ul>
-  <li>Boostrap</li>
+  <li>Bootstrap</li>
 </ul>
 
 ## License
